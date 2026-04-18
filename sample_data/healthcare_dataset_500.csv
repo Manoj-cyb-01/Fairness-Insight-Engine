@@ -1,0 +1,501 @@
+gender,age_group,treatment_type,hospital_type,treatment_outcome
+Female,50-60,Surgery,Public,Recovered
+Female,50-60,Medication,Private,Recovered
+Male,30-40,Medication,Private,Recovered
+Female,40-50,Medication,Public,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,20-30,Medication,Public,Recovered
+Male,40-50,Medication,Public,Recovered
+Female,30-40,Surgery,Private,Recovered
+Female,40-50,Medication,Public,Recovered
+Female,40-50,Surgery,Public,Not Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Recovered
+Female,30-40,Medication,Public,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Female,40-50,Surgery,Public,Not Recovered
+Male,30-40,Surgery,Public,Recovered
+Male,40-50,Medication,Public,Recovered
+Female,20-30,Surgery,Private,Not Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,30-40,Surgery,Private,Recovered
+Female,30-40,Medication,Private,Recovered
+Female,30-40,Medication,Private,Not Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Female,30-40,Medication,Private,Not Recovered
+Male,30-40,Medication,Public,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Female,50-60,Medication,Public,Not Recovered
+Male,40-50,Medication,Private,Recovered
+Female,40-50,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,50-60,Medication,Public,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,30-40,Medication,Public,Not Recovered
+Female,20-30,Surgery,Public,Recovered
+Female,50-60,Surgery,Private,Recovered
+Female,50-60,Medication,Public,Not Recovered
+Male,20-30,Medication,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,20-30,Medication,Private,Recovered
+Female,50-60,Surgery,Private,Recovered
+Female,40-50,Medication,Public,Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,20-30,Medication,Private,Not Recovered
+Female,30-40,Medication,Private,Recovered
+Female,40-50,Surgery,Private,Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,20-30,Medication,Private,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,20-30,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Female,30-40,Surgery,Public,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,20-30,Medication,Private,Not Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,50-60,Surgery,Private,Recovered
+Female,20-30,Surgery,Private,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,20-30,Surgery,Private,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,40-50,Surgery,Private,Recovered
+Male,30-40,Surgery,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,30-40,Surgery,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,30-40,Medication,Private,Recovered
+Male,20-30,Medication,Public,Recovered
+Female,30-40,Medication,Private,Not Recovered
+Female,50-60,Surgery,Private,Recovered
+Male,50-60,Surgery,Public,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,40-50,Medication,Public,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,40-50,Medication,Public,Recovered
+Female,30-40,Medication,Public,Recovered
+Female,40-50,Surgery,Public,Recovered
+Female,40-50,Surgery,Public,Not Recovered
+Female,30-40,Medication,Private,Recovered
+Female,20-30,Surgery,Private,Not Recovered
+Male,50-60,Medication,Private,Recovered
+Female,30-40,Medication,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,20-30,Medication,Private,Not Recovered
+Male,50-60,Surgery,Private,Recovered
+Female,40-50,Surgery,Private,Recovered
+Male,40-50,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Recovered
+Female,50-60,Medication,Public,Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,30-40,Surgery,Private,Recovered
+Female,50-60,Surgery,Private,Recovered
+Female,20-30,Medication,Public,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,30-40,Medication,Private,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Male,30-40,Surgery,Public,Recovered
+Female,40-50,Surgery,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Female,20-30,Medication,Public,Not Recovered
+Male,50-60,Medication,Public,Recovered
+Female,40-50,Medication,Public,Not Recovered
+Female,30-40,Surgery,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,40-50,Surgery,Private,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,40-50,Surgery,Public,Recovered
+Female,40-50,Surgery,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,20-30,Medication,Private,Not Recovered
+Female,30-40,Surgery,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Female,40-50,Medication,Private,Not Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,30-40,Medication,Public,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,40-50,Surgery,Public,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,30-40,Medication,Private,Recovered
+Female,30-40,Surgery,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,40-50,Medication,Public,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Female,20-30,Surgery,Public,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Male,30-40,Medication,Private,Recovered
+Male,40-50,Surgery,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,20-30,Medication,Public,Recovered
+Female,40-50,Surgery,Private,Recovered
+Female,40-50,Surgery,Public,Recovered
+Male,50-60,Surgery,Private,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,40-50,Medication,Private,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Female,50-60,Surgery,Public,Recovered
+Female,50-60,Surgery,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,20-30,Surgery,Private,Recovered
+Female,40-50,Medication,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,30-40,Medication,Private,Recovered
+Female,40-50,Surgery,Public,Not Recovered
+Female,20-30,Medication,Public,Not Recovered
+Female,50-60,Surgery,Private,Recovered
+Female,30-40,Surgery,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,20-30,Medication,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,40-50,Medication,Private,Recovered
+Male,30-40,Medication,Private,Recovered
+Female,50-60,Medication,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Female,30-40,Surgery,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Male,50-60,Surgery,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Female,20-30,Surgery,Private,Not Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,20-30,Surgery,Public,Recovered
+Female,20-30,Medication,Public,Recovered
+Female,40-50,Surgery,Public,Not Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,50-60,Surgery,Private,Recovered
+Female,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,40-50,Surgery,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,40-50,Surgery,Public,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,20-30,Medication,Public,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Male,50-60,Medication,Public,Recovered
+Female,50-60,Medication,Public,Recovered
+Female,50-60,Medication,Private,Recovered
+Female,30-40,Surgery,Private,Recovered
+Female,40-50,Medication,Private,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,30-40,Surgery,Public,Recovered
+Female,30-40,Surgery,Private,Recovered
+Female,50-60,Medication,Private,Recovered
+Female,30-40,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,20-30,Medication,Public,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Female,40-50,Surgery,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Female,40-50,Medication,Private,Recovered
+Female,20-30,Surgery,Public,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,40-50,Medication,Private,Recovered
+Female,50-60,Medication,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,20-30,Surgery,Private,Recovered
+Female,30-40,Medication,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,50-60,Medication,Public,Not Recovered
+Female,50-60,Surgery,Public,Not Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,30-40,Medication,Public,Not Recovered
+Male,50-60,Medication,Private,Recovered
+Female,40-50,Medication,Public,Not Recovered
+Male,20-30,Medication,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,40-50,Surgery,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,40-50,Surgery,Private,Recovered
+Female,20-30,Medication,Public,Recovered
+Female,20-30,Medication,Private,Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,20-30,Surgery,Private,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,30-40,Medication,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,30-40,Medication,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,30-40,Medication,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Male,20-30,Medication,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,40-50,Medication,Public,Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Female,20-30,Medication,Public,Recovered
+Female,50-60,Medication,Public,Recovered
+Female,30-40,Medication,Public,Not Recovered
+Female,20-30,Medication,Private,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Female,20-30,Medication,Private,Not Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Surgery,Public,Recovered
+Female,40-50,Surgery,Public,Recovered
+Male,30-40,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Female,40-50,Surgery,Private,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Female,50-60,Medication,Public,Not Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,30-40,Medication,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Female,30-40,Medication,Public,Not Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Male,20-30,Medication,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,20-30,Surgery,Private,Recovered
+Female,50-60,Surgery,Public,Not Recovered
+Male,30-40,Surgery,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,20-30,Medication,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,40-50,Medication,Public,Not Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,50-60,Surgery,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,50-60,Surgery,Private,Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,40-50,Medication,Private,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,20-30,Surgery,Public,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,20-30,Medication,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Private,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Female,30-40,Medication,Public,Recovered
+Female,40-50,Medication,Public,Recovered
+Female,20-30,Surgery,Public,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,30-40,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,50-60,Medication,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Female,50-60,Surgery,Public,Not Recovered
+Male,50-60,Medication,Private,Recovered
+Male,20-30,Medication,Public,Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Female,20-30,Medication,Private,Not Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,30-40,Medication,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Male,30-40,Surgery,Public,Recovered
+Female,20-30,Medication,Private,Not Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,50-60,Surgery,Public,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Male,50-60,Medication,Public,Recovered
+Female,50-60,Medication,Private,Recovered
+Female,30-40,Medication,Private,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Male,40-50,Surgery,Private,Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,50-60,Surgery,Private,Recovered
+Female,50-60,Medication,Public,Not Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Female,50-60,Surgery,Public,Not Recovered
+Female,30-40,Surgery,Public,Recovered
+Male,40-50,Surgery,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,50-60,Surgery,Public,Not Recovered
+Male,20-30,Medication,Public,Recovered
+Male,30-40,Medication,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,40-50,Medication,Private,Not Recovered
+Female,40-50,Medication,Private,Not Recovered
+Female,30-40,Medication,Private,Not Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,50-60,Medication,Public,Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Female,20-30,Medication,Private,Not Recovered
+Male,20-30,Medication,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,30-40,Surgery,Private,Not Recovered
+Male,50-60,Medication,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Female,40-50,Medication,Private,Recovered
+Female,30-40,Medication,Public,Not Recovered
+Female,50-60,Medication,Private,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,20-30,Medication,Private,Not Recovered
+Female,50-60,Medication,Public,Recovered
+Female,20-30,Medication,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,20-30,Medication,Public,Not Recovered
+Male,30-40,Medication,Public,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Female,20-30,Surgery,Private,Recovered
+Male,40-50,Surgery,Private,Recovered
+Male,30-40,Surgery,Public,Recovered
+Male,50-60,Medication,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Female,40-50,Medication,Public,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Female,50-60,Medication,Public,Not Recovered
+Female,40-50,Medication,Private,Recovered
+Male,50-60,Surgery,Public,Recovered
+Female,50-60,Medication,Public,Recovered
+Female,40-50,Surgery,Public,Recovered
+Female,30-40,Medication,Public,Recovered
+Female,30-40,Surgery,Public,Recovered
+Male,30-40,Medication,Private,Recovered
+Female,50-60,Medication,Private,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,50-60,Surgery,Public,Recovered
+Female,50-60,Surgery,Private,Not Recovered
+Male,30-40,Medication,Private,Recovered
+Female,50-60,Medication,Public,Not Recovered
+Female,30-40,Medication,Public,Not Recovered
+Male,30-40,Medication,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Female,40-50,Surgery,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,40-50,Surgery,Private,Not Recovered
+Female,30-40,Medication,Private,Recovered
+Male,30-40,Surgery,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,30-40,Medication,Public,Not Recovered
+Female,30-40,Surgery,Private,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Female,40-50,Medication,Public,Not Recovered
+Male,50-60,Medication,Public,Recovered
+Female,50-60,Surgery,Private,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,30-40,Medication,Private,Recovered
+Female,40-50,Surgery,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,30-40,Surgery,Private,Recovered
+Male,50-60,Medication,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,20-30,Surgery,Public,Recovered
+Female,20-30,Medication,Public,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Male,50-60,Medication,Public,Recovered
+Female,30-40,Medication,Private,Not Recovered
+Female,30-40,Medication,Private,Recovered
+Female,20-30,Surgery,Private,Not Recovered
+Female,30-40,Medication,Public,Not Recovered
+Male,40-50,Surgery,Private,Recovered
+Female,30-40,Medication,Private,Not Recovered
+Male,40-50,Surgery,Public,Recovered
+Female,30-40,Medication,Public,Not Recovered
+Female,40-50,Surgery,Private,Recovered
+Male,40-50,Medication,Public,Recovered
+Male,20-30,Surgery,Private,Recovered
+Female,30-40,Surgery,Public,Not Recovered
+Male,50-60,Surgery,Public,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,30-40,Surgery,Private,Recovered
+Female,20-30,Surgery,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,30-40,Medication,Public,Not Recovered
+Female,20-30,Medication,Public,Recovered
+Female,50-60,Medication,Public,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,20-30,Surgery,Public,Recovered
+Male,40-50,Surgery,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,20-30,Surgery,Private,Recovered
+Female,40-50,Medication,Public,Recovered
+Male,40-50,Medication,Private,Recovered
+Female,50-60,Medication,Public,Not Recovered
+Male,20-30,Surgery,Private,Recovered
+Male,50-60,Medication,Private,Recovered
+Female,50-60,Medication,Private,Not Recovered
+Male,20-30,Medication,Private,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,30-40,Medication,Public,Recovered
+Male,20-30,Medication,Private,Recovered
