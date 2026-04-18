@@ -193,9 +193,25 @@ Upload `sample_data/hiring_dataset.csv` for a live demo:
 | 19 | `utils/gemini_client.py` | Raw API key values no longer printed to logs |
 | 20 | `requirements.txt` | Added `python-dotenv`, `groq`; removed unused `matplotlib`, `seaborn`, `reportlab`, `jinja2`, `aiofiles`, `kaleido` |
 
+
 ---
 
 ## ⚠️ Disclaimer
 
 Informational only. Does not constitute legal advice. Consult qualified experts before
 making deployment decisions that affect individuals.
+
+
+## 📜 License
+This project is licensed under the Apache License 2.0.
+See the [LICENSE](LICENSE) file for details.
+
+
+
+
+
+
+
+
+
+
