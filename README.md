@@ -159,12 +159,12 @@ the Docker image via `backend/.dockerignore`.
 
 ## 🧪 Sample Dataset
 
-Upload `sample_data/hiring_dataset.csv` for a live demo:
+Upload `sample_data( csv)` for a live demo:
 
-- 40 hiring decisions
+- we have about 4 dataset est consist of 500 rows
 - Sensitive: `gender`, `race`, `age`
 - Targets: `hired`, `loan_approved`
-- Demonstrates measurable gender & race bias in outcomes
+- Demonstrates measurable bias 
 
 ---
 
