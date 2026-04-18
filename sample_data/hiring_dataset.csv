@@ -1,0 +1,41 @@
+age,gender,education,experience_years,race,income,zip_code,loan_approved,hired,credit_score
+28,Male,Bachelor,3,White,65000,10001,1,1,720
+34,Female,Master,7,Black,72000,10002,0,0,680
+45,Male,PhD,15,White,95000,10003,1,1,780
+23,Female,Bachelor,1,Hispanic,45000,10004,0,0,640
+52,Male,High School,20,White,55000,10005,1,1,700
+29,Female,Master,5,Asian,80000,10006,1,1,750
+38,Male,Bachelor,10,Black,60000,10007,0,0,660
+31,Female,Bachelor,6,White,70000,10008,1,1,730
+26,Male,Master,2,Hispanic,50000,10009,0,0,620
+41,Female,PhD,12,White,90000,10010,1,1,770
+33,Male,Bachelor,8,Black,58000,10011,0,0,650
+27,Female,Bachelor,3,White,62000,10012,1,1,710
+48,Male,High School,18,Hispanic,48000,10013,0,0,590
+35,Female,Master,9,Asian,85000,10014,1,1,760
+30,Male,Bachelor,5,White,68000,10015,1,1,725
+22,Female,Bachelor,0,Black,42000,10016,0,0,600
+55,Male,PhD,25,White,110000,10017,1,1,800
+37,Female,Master,11,Hispanic,75000,10018,0,0,670
+44,Male,Bachelor,14,White,80000,10019,1,1,745
+25,Female,Master,2,Asian,72000,10020,1,1,740
+32,Male,High School,7,Black,52000,10021,0,0,610
+29,Female,Bachelor,4,White,65000,10022,1,1,715
+46,Male,Master,16,White,92000,10023,1,1,775
+24,Female,Bachelor,1,Hispanic,44000,10024,0,0,615
+39,Male,PhD,13,Black,70000,10025,0,0,685
+36,Female,Master,10,White,88000,10026,1,1,765
+28,Male,Bachelor,4,Asian,67000,10027,1,1,720
+51,Female,High School,19,White,58000,10028,1,0,695
+43,Male,Bachelor,13,Hispanic,63000,10029,0,0,635
+31,Female,PhD,7,White,95000,10030,1,1,780
+27,Male,Master,3,Black,55000,10031,0,0,645
+34,Female,Bachelor,8,White,73000,10032,1,1,735
+49,Male,High School,17,Black,50000,10033,0,0,580
+26,Female,Master,2,Asian,78000,10034,1,1,755
+40,Male,Bachelor,11,White,75000,10035,1,1,750
+23,Female,Bachelor,0,Hispanic,40000,10036,0,0,595
+53,Male,PhD,22,White,105000,10037,1,1,795
+38,Female,Master,12,Black,68000,10038,0,0,665
+33,Male,Bachelor,7,White,70000,10039,1,1,728
+30,Female,Bachelor,5,Asian,76000,10040,1,1,745

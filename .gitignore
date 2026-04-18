@@ -1,0 +1,42 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Frontend dependencies & build artifacts
+frontend/node_modules/
+frontend/build/
+build/
+dist/
+
+# Environment / secrets — NEVER commit these
+.env
+backend/.env
+frontend/.env
+*.env.local
+*.env.*.local
+
+# Logs
+*.log
+logs/
+
+# OS & editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Pytest / coverage
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Distribution / packaging
+*.egg-info/
+.eggs/

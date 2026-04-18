@@ -1,0 +1,18 @@
+# Dependencies — image runs npm install from package.json
+node_modules/
+
+# Secrets
+.env
+*.env
+*.env.local
+
+# Build output (image builds its own)
+build/
+
+# Logs
+logs/
+*.log
+
+# Dev tooling
+.vscode/
+.idea/

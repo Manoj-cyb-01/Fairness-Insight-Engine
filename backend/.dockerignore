@@ -1,0 +1,20 @@
+# Secrets — must never be baked into the image
+.env
+*.env
+
+# Virtual environment (image uses its own pip install)
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Dev tooling
+.vscode/
+.idea/
